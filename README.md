@@ -11,3 +11,4 @@ To play press start button "Начать игру"
 press space - to fire
 press left arrow - to move to the left
 press right arrow - to move to the right
+press "q" to quit
